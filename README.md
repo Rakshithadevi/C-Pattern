@@ -62,5 +62,8 @@ public class Exercise33
 
 ## Output:
 
+![image](https://user-images.githubusercontent.com/94165326/226583297-3e411b1c-c17a-4e44-946e-b4538019150c.png)
+
+
 ## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
